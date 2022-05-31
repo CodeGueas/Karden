@@ -19,7 +19,7 @@ You can learn more about our project on [kard.cool](https://kard.cool)
 #contract address
 | name   | testnet(Ropsten)                           | mainnet(Polygon)                           |
 | ------ | ------------------------------------------ | ------------------------------------------ |
-| karden | 0xE154B6e2513591d7a20ef7B949e500E1FFBB8efA | 0xfe9193052ff2d1e3e25da15d060147b7fe98298b |
+| karden | 0x91138BfB62a5DA8BaeC4e1A537638109135cfe75 | 0x0B15a5C3CC3a25447D4b8973C80CDA22D52e67Db |
 
 #Installation
 Karden是一个Chrome插件，Demo阶段需要使用开发者模式安装
