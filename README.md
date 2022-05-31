@@ -24,8 +24,6 @@ You can learn more about our project on [kard.cool](https://kard.cool)
 
 # Installation
 
-Karden是一个Chrome插件，Demo阶段需要使用开发者模式安装
-
 We packaged the product as a Chrome Web extension, at the current demo stage, users should install the extension via developer mode.
 
 1.  Download `karden_demo.zip` and unzip the file
