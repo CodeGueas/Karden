@@ -1,3 +1,4 @@
+![](image/cover.png)
 # Karden
 Karden is a Web3 personal homepage that aims to afford the service of digital assets management, assets exhibition, and information integration.  Web2 developers can quickly start up their Web3 applications with optimized APIs supported by Karden.
 
