@@ -16,6 +16,9 @@ Karden’ goal is to be the starting place for developers and general users who 
 
 You can learn more about our project on [kard.cool](https://kard.cool)
 
+Demo video:
+https://youtu.be/_NAy6_DP8Vo
+
 # contract address
 
 | name   | testnet(Ropsten)                           | mainnet(Polygon)                           |
