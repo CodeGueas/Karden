@@ -60,7 +60,35 @@ We packaged the product as a Chrome Web extension, at the current demo stage, us
 # How to get the Kards
 
 1.  Click KardStore on your KardGrid, you can restore it from SystemKard once removed.
+![](image/image_N1fhfOtHlt.png)
 
 2.  Mint Kards that interest you most by clicking the **free mint** button below
+![](image/image_NcsKHHfEMj.png)
 
 3.  Once succeed to mint a Kard, you can find it in My Kards, just click + to add it to your Kard Grid.
+
+# Link Next.ID
+
+1.  Click the Kard icon in the upper right corner and click "Link To Karden"
+
+![](image/image_7KLSKis6xt.png)
+
+2.Click "Connect Wallet"
+
+3.Create an Identity/Restore from identity or Backups
+
+![](image/image_o-M0Smz1G-.png)
+
+4.Connect to Karden
+
+![](image/image_I77FEnMn0Z.png)
+
+5.Connect to Twitter，it will jump to twitter ，Connect in the lower right corner to see the following panel
+
+![](image/image_m4VV3ePPwS.png)
+
+6.Click Send Twitter, copy the text in the box and post it. Click "Tweet Posted" after successful tweeting
+
+8.After seeing success，You can see the Karden button on your Twitter profile page
+
+![](image/image_5TMVyGdgP9.png)
