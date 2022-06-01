@@ -16,6 +16,8 @@ Karden’ goal is to be the starting place for developers and general users who 
 
 You can learn more about our project on [kard.cool](https://kard.cool)
 
+Guide:https://kard.gitbook.io/karden/
+
 Demo video:
 https://youtu.be/_NAy6_DP8Vo
 
